@@ -1,0 +1,2 @@
+# ESCAPPStateDemo
+测试APP不同状态切换时代理方法的调用顺序
